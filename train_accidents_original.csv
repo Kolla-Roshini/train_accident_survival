@@ -1,0 +1,1001 @@
+Passenger_ID,Accident_ID,Age,Gender,Seat_Location,Class,Survival_Status,Date,Location,Train_Speed_kmh,Cause
+1,23,35,Female,Middle,Business,,03-06-2020,City D,71,Human Error
+2,85,65,Male,Middle,Business,,11-08-2021,City D,130,Collision
+3,19,47,Male,Front,Business,,06-05-2020,City C,87,Mechanical Failure
+4,19,78,Male,Middle,Business,,06-05-2020,City C,87,Mechanical Failure
+5,36,3,Male,Rear,Economy,,02-09-2020,City B,122,Mechanical Failure
+6,29,1,Female,Rear,Business,,15-07-2020,City D,157,Derailment
+7,60,5,Female,Front,Business,,17-02-2021,City C,103,Mechanical Failure
+8,82,14,Female,Middle,Economy,,21-07-2021,City D,185,Mechanical Failure
+9,2,27,Male,Middle,Economy,,08-01-2020,City D,142,Derailment
+10,1,9,Male,Middle,Business,,01-01-2020,City B,152,Mechanical Failure
+11,47,79,Female,Rear,Business,,18-11-2020,City D,141,Collision
+12,69,15,Male,Front,Business,,21-04-2021,City C,160,Human Error
+13,20,42,Female,Front,Economy,,13-05-2020,City C,179,Human Error
+14,11,77,Male,Front,Business,,11-03-2020,City A,166,Collision
+15,2,51,Female,Front,Economy,,08-01-2020,City D,142,Derailment
+16,67,63,Female,Front,Economy,,07-04-2021,City C,89,Mechanical Failure
+17,87,52,Male,Front,Economy,,25-08-2021,City C,82,Derailment
+18,12,4,Male,Middle,Business,,18-03-2020,City C,149,Human Error
+19,20,23,Male,Middle,Business,,13-05-2020,City C,179,Human Error
+20,5,15,Female,Front,Economy,,29-01-2020,City B,121,Derailment
+21,37,43,Male,Rear,Economy,,09-09-2020,City D,67,Derailment
+22,38,29,Male,Rear,Economy,,16-09-2020,City B,181,Mechanical Failure
+23,94,36,Male,Rear,Economy,,13-10-2021,City C,61,Collision
+24,9,13,Male,Rear,Business,,26-02-2020,City D,124,Derailment
+25,98,32,Male,Rear,Economy,,10-11-2021,City C,86,Mechanical Failure
+26,53,71,Female,Front,Business,,30-12-2020,City A,153,Mechanical Failure
+27,44,59,Male,Middle,Business,,28-10-2020,City B,102,Mechanical Failure
+28,99,28,Male,Front,Economy,,17-11-2021,City D,148,Human Error
+29,86,66,Male,Middle,Economy,,18-08-2021,City C,185,Human Error
+30,24,42,Female,Front,Economy,,10-06-2020,City C,138,Mechanical Failure
+31,81,45,Male,Middle,Economy,,14-07-2021,City C,178,Mechanical Failure
+32,74,62,Female,Rear,Economy,,26-05-2021,City D,64,Derailment
+33,30,57,Female,Rear,Business,,22-07-2020,City A,104,Collision
+34,59,6,Female,Middle,Business,,10-02-2021,City B,53,Collision
+35,87,28,Female,Rear,Economy,,25-08-2021,City C,82,Derailment
+36,96,28,Male,Middle,Economy,,27-10-2021,City B,97,Collision
+37,81,44,Male,Front,Business,,14-07-2021,City C,178,Mechanical Failure
+38,81,30,Female,Rear,Business,,14-07-2021,City C,178,Mechanical Failure
+39,14,62,Female,Rear,Economy,,01-04-2020,City C,180,Derailment
+40,9,75,Female,Middle,Business,,26-02-2020,City D,124,Derailment
+41,40,62,Male,Rear,Economy,,30-09-2020,City A,109,Collision
+42,66,1,Female,Rear,Business,,31-03-2021,City B,64,Collision
+43,25,27,Male,Front,Business,,17-06-2020,City B,98,Mechanical Failure
+44,73,62,Male,Middle,Economy,,19-05-2021,City B,90,Human Error
+45,22,77,Female,Rear,Business,,27-05-2020,City D,107,Collision
+46,4,3,Male,Middle,Economy,,22-01-2020,City A,156,Derailment
+47,26,70,Female,Rear,Economy,,24-06-2020,City B,108,Collision
+48,58,72,Male,Front,Business,,03-02-2021,City A,155,Derailment
+49,29,27,Female,Front,Business,,15-07-2020,City D,157,Derailment
+50,98,9,Female,Front,Economy,,10-11-2021,City C,86,Mechanical Failure
+51,87,62,Female,Middle,Business,,25-08-2021,City C,82,Derailment
+52,37,37,Male,Middle,Business,,09-09-2020,City D,67,Derailment
+53,75,51,Male,Rear,Business,,02-06-2021,City D,94,Human Error
+54,70,44,Female,Middle,Business,,28-04-2021,City D,102,Collision
+55,18,24,Female,Rear,Business,,29-04-2020,City B,137,Derailment
+56,85,79,Female,Rear,Economy,,11-08-2021,City D,130,Collision
+57,42,59,Female,Front,Business,,14-10-2020,City C,58,Mechanical Failure
+58,100,32,Female,Rear,Business,,24-11-2021,City C,153,Human Error
+59,41,52,Male,Middle,Business,,07-10-2020,City D,63,Collision
+60,38,62,Female,Rear,Business,,16-09-2020,City B,181,Mechanical Failure
+61,34,58,Female,Rear,Business,,19-08-2020,City C,184,Mechanical Failure
+62,17,52,Male,Middle,Business,,22-04-2020,City C,51,Derailment
+63,37,12,Female,Rear,Economy,,09-09-2020,City D,67,Derailment
+64,25,39,Male,Rear,Business,,17-06-2020,City B,98,Mechanical Failure
+65,76,2,Female,Front,Business,,09-06-2021,City B,114,Mechanical Failure
+66,87,3,Female,Middle,Business,,25-08-2021,City C,82,Derailment
+67,86,56,Male,Front,Economy,,18-08-2021,City C,185,Human Error
+68,85,59,Female,Rear,Business,,11-08-2021,City D,130,Collision
+69,27,2,Female,Middle,Business,,01-07-2020,City B,64,Mechanical Failure
+70,57,2,Female,Middle,Business,,27-01-2021,City D,103,Mechanical Failure
+71,31,54,Female,Front,Economy,,29-07-2020,City C,113,Derailment
+72,6,1,Female,Middle,Business,,05-02-2020,City C,70,Mechanical Failure
+73,91,19,Male,Rear,Economy,,22-09-2021,City C,77,Human Error
+74,40,2,Male,Middle,Business,,30-09-2020,City A,109,Collision
+75,98,53,Male,Rear,Business,,10-11-2021,City C,86,Mechanical Failure
+76,12,44,Male,Front,Economy,,18-03-2020,City C,149,Human Error
+77,53,32,Male,Front,Economy,,30-12-2020,City A,153,Mechanical Failure
+78,71,70,Male,Middle,Economy,,05-05-2021,City C,73,Human Error
+79,10,32,Female,Front,Business,,04-03-2020,City A,137,Human Error
+80,45,68,Female,Middle,Business,,04-11-2020,City C,179,Human Error
+81,17,55,Male,Front,Business,,22-04-2020,City C,51,Derailment
+82,26,75,Female,Middle,Business,,24-06-2020,City B,108,Collision
+83,85,56,Male,Rear,Business,,11-08-2021,City D,130,Collision
+84,92,17,Male,Front,Business,,29-09-2021,City A,184,Human Error
+85,62,38,Female,Rear,Business,,03-03-2021,City D,93,Collision
+86,46,24,Female,Middle,Business,,11-11-2020,City C,133,Collision
+87,64,69,Female,Front,Economy,,17-03-2021,City D,144,Collision
+88,2,70,Male,Middle,Business,,08-01-2020,City D,142,Derailment
+89,54,11,Male,Middle,Business,,06-01-2021,City D,181,Human Error
+90,65,16,Female,Rear,Economy,,24-03-2021,City C,97,Derailment
+91,51,73,Male,Front,Economy,,16-12-2020,City C,130,Mechanical Failure
+92,53,59,Male,Rear,Economy,,30-12-2020,City A,153,Mechanical Failure
+93,36,70,Male,Rear,Business,,02-09-2020,City B,122,Mechanical Failure
+94,26,3,Male,Middle,Economy,,24-06-2020,City B,108,Collision
+95,29,20,Male,Front,Economy,,15-07-2020,City D,157,Derailment
+96,21,59,Male,Rear,Business,,20-05-2020,City B,70,Derailment
+97,11,36,Male,Rear,Business,,11-03-2020,City A,166,Collision
+98,40,19,Male,Rear,Business,,30-09-2020,City A,109,Collision
+99,11,67,Female,Rear,Economy,,11-03-2020,City A,166,Collision
+100,36,19,Male,Front,Business,,02-09-2020,City B,122,Mechanical Failure
+101,59,20,Male,Front,Economy,,10-02-2021,City B,53,Collision
+102,39,71,Female,Front,Business,,23-09-2020,City D,138,Collision
+103,99,52,Male,Front,Business,,17-11-2021,City D,148,Human Error
+104,54,33,Female,Rear,Business,,06-01-2021,City D,181,Human Error
+105,98,40,Female,Front,Economy,,10-11-2021,City C,86,Mechanical Failure
+106,55,39,Female,Front,Business,,13-01-2021,City D,51,Collision
+107,24,1,Male,Front,Business,,10-06-2020,City C,138,Mechanical Failure
+108,22,11,Female,Middle,Business,,27-05-2020,City D,107,Collision
+109,69,57,Male,Middle,Economy,,21-04-2021,City C,160,Human Error
+110,56,50,Female,Front,Economy,,20-01-2021,City C,183,Human Error
+111,33,23,Female,Rear,Business,,12-08-2020,City C,100,Mechanical Failure
+112,36,31,Female,Front,Business,,02-09-2020,City B,122,Mechanical Failure
+113,20,42,Female,Front,Business,,13-05-2020,City C,179,Human Error
+114,83,7,Female,Front,Business,,28-07-2021,City C,112,Derailment
+115,99,16,Female,Front,Economy,,17-11-2021,City D,148,Human Error
+116,81,60,Male,Middle,Economy,,14-07-2021,City C,178,Mechanical Failure
+117,62,2,Male,Front,Business,,03-03-2021,City D,93,Collision
+118,98,1,Male,Middle,Economy,,10-11-2021,City C,86,Mechanical Failure
+119,73,48,Female,Front,Economy,,19-05-2021,City B,90,Human Error
+120,26,12,Female,Front,Economy,,24-06-2020,City B,108,Collision
+121,66,69,Female,Rear,Economy,,31-03-2021,City B,64,Collision
+122,73,37,Female,Middle,Business,,19-05-2021,City B,90,Human Error
+123,73,32,Female,Rear,Business,,19-05-2021,City B,90,Human Error
+124,40,9,Male,Front,Economy,,30-09-2020,City A,109,Collision
+125,17,19,Male,Front,Business,,22-04-2020,City C,51,Derailment
+126,1,48,Female,Rear,Economy,,01-01-2020,City B,152,Mechanical Failure
+127,89,3,Female,Front,Business,,08-09-2021,City B,54,Derailment
+128,61,20,Female,Front,Economy,,24-02-2021,City D,195,Human Error
+129,43,24,Male,Middle,Economy,,21-10-2020,City D,139,Derailment
+130,42,54,Female,Rear,Economy,,14-10-2020,City C,58,Mechanical Failure
+131,25,33,Male,Middle,Business,,17-06-2020,City B,98,Mechanical Failure
+132,39,24,Male,Rear,Business,,23-09-2020,City D,138,Collision
+133,35,75,Male,Front,Business,,26-08-2020,City B,70,Collision
+134,3,72,Female,Front,Economy,,15-01-2020,City C,64,Mechanical Failure
+135,44,36,Male,Rear,Business,,28-10-2020,City B,102,Mechanical Failure
+136,51,38,Male,Rear,Business,,16-12-2020,City C,130,Mechanical Failure
+137,94,25,Male,Front,Business,,13-10-2021,City C,61,Collision
+138,98,18,Female,Middle,Economy,,10-11-2021,City C,86,Mechanical Failure
+139,12,66,Female,Rear,Economy,,18-03-2020,City C,149,Human Error
+140,19,54,Male,Rear,Economy,,06-05-2020,City C,87,Mechanical Failure
+141,44,35,Female,Rear,Business,,28-10-2020,City B,102,Mechanical Failure
+142,59,61,Female,Rear,Business,,10-02-2021,City B,53,Collision
+143,49,41,Female,Middle,Business,,02-12-2020,City C,57,Collision
+144,61,33,Male,Rear,Business,,24-02-2021,City D,195,Human Error
+145,17,68,Female,Rear,Business,,22-04-2020,City C,51,Derailment
+146,74,33,Female,Rear,Business,,26-05-2021,City D,64,Derailment
+147,57,14,Female,Rear,Economy,,27-01-2021,City D,103,Mechanical Failure
+148,55,21,Female,Rear,Business,,13-01-2021,City D,51,Collision
+149,47,48,Male,Front,Economy,,18-11-2020,City D,141,Collision
+150,12,20,Male,Middle,Business,,18-03-2020,City C,149,Human Error
+151,62,8,Female,Rear,Economy,,03-03-2021,City D,93,Collision
+152,80,7,Male,Rear,Economy,,07-07-2021,City B,137,Human Error
+153,88,67,Male,Middle,Economy,,01-09-2021,City A,172,Derailment
+154,83,17,Male,Front,Business,,28-07-2021,City C,112,Derailment
+155,8,33,Female,Front,Business,,19-02-2020,City C,171,Mechanical Failure
+156,95,48,Female,Rear,Business,,20-10-2021,City C,82,Collision
+157,21,76,Female,Middle,Economy,,20-05-2020,City B,70,Derailment
+158,81,59,Female,Middle,Business,,14-07-2021,City C,178,Mechanical Failure
+159,87,22,Female,Front,Business,,25-08-2021,City C,82,Derailment
+160,80,30,Female,Front,Business,,07-07-2021,City B,137,Human Error
+161,70,38,Male,Front,Economy,,28-04-2021,City D,102,Collision
+162,72,51,Female,Front,Business,,12-05-2021,City B,173,Mechanical Failure
+163,25,54,Female,Middle,Business,,17-06-2020,City B,98,Mechanical Failure
+164,82,8,Male,Rear,Business,,21-07-2021,City D,185,Mechanical Failure
+165,89,27,Female,Rear,Business,,08-09-2021,City B,54,Derailment
+166,12,27,Female,Front,Economy,,18-03-2020,City C,149,Human Error
+167,15,21,Female,Front,Business,,08-04-2020,City A,199,Mechanical Failure
+168,59,30,Female,Front,Economy,,10-02-2021,City B,53,Collision
+169,26,28,Male,Front,Economy,,24-06-2020,City B,108,Collision
+170,26,64,Male,Middle,Economy,,24-06-2020,City B,108,Collision
+171,47,69,Female,Front,Business,,18-11-2020,City D,141,Collision
+172,32,61,Female,Rear,Business,,05-08-2020,City A,180,Derailment
+173,10,48,Male,Middle,Business,,04-03-2020,City A,137,Human Error
+174,16,19,Male,Front,Business,,15-04-2020,City D,102,Derailment
+175,71,4,Male,Rear,Business,,05-05-2021,City C,73,Human Error
+176,17,35,Male,Rear,Economy,,22-04-2020,City C,51,Derailment
+177,23,64,Male,Front,Economy,,03-06-2020,City D,71,Human Error
+178,26,49,Female,Middle,Business,,24-06-2020,City B,108,Collision
+179,85,17,Female,Middle,Business,,11-08-2021,City D,130,Collision
+180,86,44,Male,Rear,Business,,18-08-2021,City C,185,Human Error
+181,7,30,Male,Middle,Business,,12-02-2020,City A,152,Human Error
+182,14,46,Female,Middle,Economy,,01-04-2020,City C,180,Derailment
+183,79,6,Female,Rear,Business,,30-06-2021,City B,58,Mechanical Failure
+184,7,37,Male,Rear,Business,,12-02-2020,City A,152,Human Error
+185,9,24,Female,Middle,Economy,,26-02-2020,City D,124,Derailment
+186,48,46,Male,Front,Economy,,25-11-2020,City C,160,Derailment
+187,72,53,Female,Front,Economy,,12-05-2021,City B,173,Mechanical Failure
+188,59,60,Female,Rear,Economy,,10-02-2021,City B,53,Collision
+189,87,63,Female,Rear,Economy,,25-08-2021,City C,82,Derailment
+190,93,32,Female,Front,Business,,06-10-2021,City B,121,Derailment
+191,82,33,Male,Front,Business,,21-07-2021,City D,185,Mechanical Failure
+192,95,67,Female,Middle,Economy,,20-10-2021,City C,82,Collision
+193,94,18,Female,Middle,Business,,13-10-2021,City C,61,Collision
+194,39,25,Female,Middle,Business,,23-09-2020,City D,138,Collision
+195,99,54,Female,Middle,Economy,,17-11-2021,City D,148,Human Error
+196,18,58,Male,Middle,Business,,29-04-2020,City B,137,Derailment
+197,59,67,Male,Rear,Business,,10-02-2021,City B,53,Collision
+198,17,46,Female,Rear,Business,,22-04-2020,City C,51,Derailment
+199,14,24,Female,Middle,Economy,,01-04-2020,City C,180,Derailment
+200,31,32,Male,Middle,Business,,29-07-2020,City C,113,Derailment
+201,24,47,Female,Front,Economy,,10-06-2020,City C,138,Mechanical Failure
+202,99,23,Male,Rear,Business,,17-11-2021,City D,148,Human Error
+203,60,66,Female,Rear,Business,,17-02-2021,City C,103,Mechanical Failure
+204,45,27,Female,Middle,Economy,,04-11-2020,City C,179,Human Error
+205,98,2,Male,Rear,Economy,,10-11-2021,City C,86,Mechanical Failure
+206,3,17,Male,Rear,Business,,15-01-2020,City C,64,Mechanical Failure
+207,37,33,Female,Rear,Economy,,09-09-2020,City D,67,Derailment
+208,43,9,Male,Middle,Economy,,21-10-2020,City D,139,Derailment
+209,40,43,Female,Rear,Economy,,30-09-2020,City A,109,Collision
+210,90,48,Female,Rear,Business,,15-09-2021,City B,90,Derailment
+211,55,39,Female,Middle,Business,,13-01-2021,City D,51,Collision
+212,87,42,Male,Front,Economy,,25-08-2021,City C,82,Derailment
+213,39,26,Female,Front,Economy,,23-09-2020,City D,138,Collision
+214,15,50,Female,Middle,Economy,,08-04-2020,City A,199,Mechanical Failure
+215,4,25,Female,Rear,Business,,22-01-2020,City A,156,Derailment
+216,93,24,Male,Rear,Economy,,06-10-2021,City B,121,Derailment
+217,86,13,Male,Front,Economy,,18-08-2021,City C,185,Human Error
+218,25,60,Male,Rear,Business,,17-06-2020,City B,98,Mechanical Failure
+219,13,7,Male,Rear,Business,,25-03-2020,City A,153,Collision
+220,82,57,Female,Middle,Economy,,21-07-2021,City D,185,Mechanical Failure
+221,33,36,Female,Front,Economy,,12-08-2020,City C,100,Mechanical Failure
+222,16,45,Female,Front,Economy,,15-04-2020,City D,102,Derailment
+223,42,20,Male,Middle,Economy,,14-10-2020,City C,58,Mechanical Failure
+224,66,65,Female,Front,Economy,,31-03-2021,City B,64,Collision
+225,55,8,Male,Middle,Economy,,13-01-2021,City D,51,Collision
+226,99,16,Male,Middle,Business,,17-11-2021,City D,148,Human Error
+227,42,14,Female,Middle,Business,,14-10-2020,City C,58,Mechanical Failure
+228,34,76,Female,Middle,Business,,19-08-2020,City C,184,Mechanical Failure
+229,30,15,Male,Rear,Economy,,22-07-2020,City A,104,Collision
+230,13,66,Female,Front,Business,,25-03-2020,City A,153,Collision
+231,13,32,Female,Front,Economy,,25-03-2020,City A,153,Collision
+232,18,63,Female,Rear,Business,,29-04-2020,City B,137,Derailment
+233,32,51,Female,Rear,Economy,,05-08-2020,City A,180,Derailment
+234,96,25,Female,Rear,Economy,,27-10-2021,City B,97,Collision
+235,99,58,Female,Middle,Business,,17-11-2021,City D,148,Human Error
+236,39,63,Male,Front,Economy,,23-09-2020,City D,138,Collision
+237,46,62,Female,Front,Economy,,11-11-2020,City C,133,Collision
+238,29,22,Male,Front,Business,,15-07-2020,City D,157,Derailment
+239,62,58,Male,Front,Economy,,03-03-2021,City D,93,Collision
+240,93,58,Male,Rear,Economy,,06-10-2021,City B,121,Derailment
+241,62,49,Male,Rear,Business,,03-03-2021,City D,93,Collision
+242,57,52,Female,Rear,Economy,,27-01-2021,City D,103,Mechanical Failure
+243,16,42,Male,Rear,Economy,,15-04-2020,City D,102,Derailment
+244,56,70,Male,Middle,Business,,20-01-2021,City C,183,Human Error
+245,10,15,Male,Rear,Economy,,04-03-2020,City A,137,Human Error
+246,30,54,Male,Middle,Business,,22-07-2020,City A,104,Collision
+247,25,60,Male,Front,Economy,,17-06-2020,City B,98,Mechanical Failure
+248,84,8,Female,Middle,Business,,04-08-2021,City A,188,Human Error
+249,5,53,Male,Rear,Business,,29-01-2020,City B,121,Derailment
+250,65,60,Male,Front,Economy,,24-03-2021,City C,97,Derailment
+251,94,5,Female,Middle,Economy,,13-10-2021,City C,61,Collision
+252,49,68,Female,Front,Economy,,02-12-2020,City C,57,Collision
+253,3,6,Male,Rear,Economy,,15-01-2020,City C,64,Mechanical Failure
+254,45,47,Male,Front,Business,,04-11-2020,City C,179,Human Error
+255,14,55,Female,Rear,Business,,01-04-2020,City C,180,Derailment
+256,30,40,Female,Middle,Economy,,22-07-2020,City A,104,Collision
+257,68,52,Male,Front,Business,,14-04-2021,City D,131,Derailment
+258,18,16,Male,Middle,Business,,29-04-2020,City B,137,Derailment
+259,62,13,Male,Middle,Economy,,03-03-2021,City D,93,Collision
+260,37,30,Female,Rear,Business,,09-09-2020,City D,67,Derailment
+261,25,19,Female,Rear,Economy,,17-06-2020,City B,98,Mechanical Failure
+262,48,17,Male,Rear,Economy,,25-11-2020,City C,160,Derailment
+263,65,63,Male,Rear,Business,,24-03-2021,City C,97,Derailment
+264,53,19,Male,Middle,Economy,,30-12-2020,City A,153,Mechanical Failure
+265,79,58,Male,Middle,Business,,30-06-2021,City B,58,Mechanical Failure
+266,73,55,Male,Middle,Business,,19-05-2021,City B,90,Human Error
+267,15,62,Male,Middle,Business,,08-04-2020,City A,199,Mechanical Failure
+268,49,23,Male,Middle,Economy,,02-12-2020,City C,57,Collision
+269,88,9,Female,Middle,Business,,01-09-2021,City A,172,Derailment
+270,68,12,Female,Front,Economy,,14-04-2021,City D,131,Derailment
+271,12,1,Female,Front,Business,,18-03-2020,City C,149,Human Error
+272,59,58,Male,Front,Business,,10-02-2021,City B,53,Collision
+273,37,1,Female,Rear,Economy,,09-09-2020,City D,67,Derailment
+274,61,34,Female,Front,Business,,24-02-2021,City D,195,Human Error
+275,43,48,Male,Front,Business,,21-10-2020,City D,139,Derailment
+276,70,1,Female,Middle,Economy,,28-04-2021,City D,102,Collision
+277,39,16,Female,Rear,Business,,23-09-2020,City D,138,Collision
+278,56,61,Male,Front,Business,,20-01-2021,City C,183,Human Error
+279,63,64,Male,Middle,Business,,10-03-2021,City C,63,Derailment
+280,46,63,Male,Middle,Economy,,11-11-2020,City C,133,Collision
+281,88,69,Female,Middle,Economy,,01-09-2021,City A,172,Derailment
+282,11,22,Male,Front,Economy,,11-03-2020,City A,166,Collision
+283,62,67,Female,Middle,Business,,03-03-2021,City D,93,Collision
+284,77,76,Female,Rear,Business,,16-06-2021,City B,138,Collision
+285,98,26,Female,Front,Business,,10-11-2021,City C,86,Mechanical Failure
+286,25,16,Male,Front,Economy,,17-06-2020,City B,98,Mechanical Failure
+287,71,51,Female,Rear,Economy,,05-05-2021,City C,73,Human Error
+288,52,57,Female,Rear,Economy,,23-12-2020,City D,99,Mechanical Failure
+289,4,29,Male,Middle,Business,,22-01-2020,City A,156,Derailment
+290,59,78,Female,Front,Economy,,10-02-2021,City B,53,Collision
+291,72,69,Female,Front,Business,,12-05-2021,City B,173,Mechanical Failure
+292,20,47,Female,Rear,Business,,13-05-2020,City C,179,Human Error
+293,93,62,Male,Front,Economy,,06-10-2021,City B,121,Derailment
+294,63,69,Male,Middle,Economy,,10-03-2021,City C,63,Derailment
+295,54,76,Male,Rear,Economy,,06-01-2021,City D,181,Human Error
+296,74,16,Male,Rear,Economy,,26-05-2021,City D,64,Derailment
+297,98,48,Female,Front,Business,,10-11-2021,City C,86,Mechanical Failure
+298,57,39,Male,Rear,Economy,,27-01-2021,City D,103,Mechanical Failure
+299,90,33,Female,Rear,Business,,15-09-2021,City B,90,Derailment
+300,41,23,Female,Front,Business,,07-10-2020,City D,63,Collision
+301,3,10,Male,Middle,Business,,15-01-2020,City C,64,Mechanical Failure
+302,6,69,Female,Front,Business,,05-02-2020,City C,70,Mechanical Failure
+303,5,34,Female,Rear,Economy,,29-01-2020,City B,121,Derailment
+304,5,52,Female,Rear,Business,,29-01-2020,City B,121,Derailment
+305,54,10,Male,Rear,Economy,,06-01-2021,City D,181,Human Error
+306,47,19,Female,Rear,Economy,,18-11-2020,City D,141,Collision
+307,87,58,Female,Middle,Economy,,25-08-2021,City C,82,Derailment
+308,49,1,Female,Middle,Economy,,02-12-2020,City C,57,Collision
+309,9,69,Male,Rear,Business,,26-02-2020,City D,124,Derailment
+310,99,4,Female,Rear,Economy,,17-11-2021,City D,148,Human Error
+311,20,16,Male,Front,Business,,13-05-2020,City C,179,Human Error
+312,61,24,Male,Rear,Economy,,24-02-2021,City D,195,Human Error
+313,35,2,Male,Rear,Business,,26-08-2020,City B,70,Collision
+314,50,32,Male,Front,Business,,09-12-2020,City D,84,Human Error
+315,82,24,Male,Rear,Business,,21-07-2021,City D,185,Mechanical Failure
+316,62,12,Female,Middle,Economy,,03-03-2021,City D,93,Collision
+317,17,50,Female,Middle,Economy,,22-04-2020,City C,51,Derailment
+318,88,35,Female,Middle,Business,,01-09-2021,City A,172,Derailment
+319,3,33,Female,Rear,Economy,,15-01-2020,City C,64,Mechanical Failure
+320,32,33,Female,Front,Business,,05-08-2020,City A,180,Derailment
+321,99,61,Female,Rear,Business,,17-11-2021,City D,148,Human Error
+322,13,51,Female,Front,Business,,25-03-2020,City A,153,Collision
+323,89,43,Female,Middle,Business,,08-09-2021,City B,54,Derailment
+324,73,12,Male,Rear,Business,,19-05-2021,City B,90,Human Error
+325,68,67,Male,Middle,Economy,,14-04-2021,City D,131,Derailment
+326,14,65,Female,Front,Business,,01-04-2020,City C,180,Derailment
+327,98,33,Male,Front,Business,,10-11-2021,City C,86,Mechanical Failure
+328,11,40,Male,Rear,Business,,11-03-2020,City A,166,Collision
+329,56,74,Female,Rear,Business,,20-01-2021,City C,183,Human Error
+330,67,43,Male,Front,Business,,07-04-2021,City C,89,Mechanical Failure
+331,92,44,Female,Rear,Business,,29-09-2021,City A,184,Human Error
+332,29,29,Female,Front,Business,,15-07-2020,City D,157,Derailment
+333,9,13,Male,Front,Business,,26-02-2020,City D,124,Derailment
+334,67,12,Female,Middle,Economy,,07-04-2021,City C,89,Mechanical Failure
+335,25,46,Male,Middle,Business,,17-06-2020,City B,98,Mechanical Failure
+336,98,2,Male,Front,Business,,10-11-2021,City C,86,Mechanical Failure
+337,76,35,Female,Rear,Business,,09-06-2021,City B,114,Mechanical Failure
+338,42,8,Female,Rear,Economy,,14-10-2020,City C,58,Mechanical Failure
+339,9,26,Female,Rear,Business,,26-02-2020,City D,124,Derailment
+340,79,74,Female,Rear,Economy,,30-06-2021,City B,58,Mechanical Failure
+341,40,34,Male,Rear,Business,,30-09-2020,City A,109,Collision
+342,25,7,Male,Front,Economy,,17-06-2020,City B,98,Mechanical Failure
+343,5,68,Male,Rear,Economy,,29-01-2020,City B,121,Derailment
+344,11,58,Female,Rear,Business,,11-03-2020,City A,166,Collision
+345,59,75,Male,Front,Business,,10-02-2021,City B,53,Collision
+346,98,29,Male,Front,Economy,,10-11-2021,City C,86,Mechanical Failure
+347,88,36,Female,Middle,Business,,01-09-2021,City A,172,Derailment
+348,79,21,Female,Front,Economy,,30-06-2021,City B,58,Mechanical Failure
+349,38,36,Female,Rear,Business,,16-09-2020,City B,181,Mechanical Failure
+350,72,10,Male,Rear,Business,,12-05-2021,City B,173,Mechanical Failure
+351,5,73,Male,Front,Economy,,29-01-2020,City B,121,Derailment
+352,48,24,Male,Rear,Business,,25-11-2020,City C,160,Derailment
+353,90,64,Female,Front,Economy,,15-09-2021,City B,90,Derailment
+354,18,49,Female,Front,Business,,29-04-2020,City B,137,Derailment
+355,70,36,Male,Front,Business,,28-04-2021,City D,102,Collision
+356,37,24,Male,Rear,Business,,09-09-2020,City D,67,Derailment
+357,60,23,Female,Middle,Business,,17-02-2021,City C,103,Mechanical Failure
+358,48,62,Female,Rear,Business,,25-11-2020,City C,160,Derailment
+359,77,37,Male,Rear,Business,,16-06-2021,City B,138,Collision
+360,28,12,Male,Rear,Economy,,08-07-2020,City A,100,Mechanical Failure
+361,69,55,Female,Rear,Economy,,21-04-2021,City C,160,Human Error
+362,77,13,Male,Rear,Business,,16-06-2021,City B,138,Collision
+363,81,23,Male,Rear,Business,,14-07-2021,City C,178,Mechanical Failure
+364,40,30,Female,Middle,Business,,30-09-2020,City A,109,Collision
+365,45,17,Male,Front,Business,,04-11-2020,City C,179,Human Error
+366,96,62,Male,Front,Business,,27-10-2021,City B,97,Collision
+367,62,13,Female,Front,Economy,,03-03-2021,City D,93,Collision
+368,93,59,Male,Rear,Economy,,06-10-2021,City B,121,Derailment
+369,58,19,Female,Front,Economy,,03-02-2021,City A,155,Derailment
+370,67,49,Male,Rear,Economy,,07-04-2021,City C,89,Mechanical Failure
+371,56,12,Male,Middle,Business,,20-01-2021,City C,183,Human Error
+372,40,61,Male,Front,Economy,,30-09-2020,City A,109,Collision
+373,98,19,Male,Front,Economy,,10-11-2021,City C,86,Mechanical Failure
+374,40,76,Female,Rear,Economy,,30-09-2020,City A,109,Collision
+375,91,9,Female,Front,Economy,,22-09-2021,City C,77,Human Error
+376,77,71,Female,Front,Business,,16-06-2021,City B,138,Collision
+377,33,28,Female,Front,Business,,12-08-2020,City C,100,Mechanical Failure
+378,6,78,Female,Middle,Economy,,05-02-2020,City C,70,Mechanical Failure
+379,88,52,Female,Front,Business,,01-09-2021,City A,172,Derailment
+380,19,16,Female,Middle,Economy,,06-05-2020,City C,87,Mechanical Failure
+381,80,69,Female,Rear,Economy,,07-07-2021,City B,137,Human Error
+382,40,12,Female,Front,Economy,,30-09-2020,City A,109,Collision
+383,92,25,Male,Middle,Business,,29-09-2021,City A,184,Human Error
+384,97,52,Female,Rear,Business,,03-11-2021,City D,111,Collision
+385,59,53,Female,Rear,Business,,10-02-2021,City B,53,Collision
+386,59,23,Female,Front,Business,,10-02-2021,City B,53,Collision
+387,48,16,Male,Rear,Economy,,25-11-2020,City C,160,Derailment
+388,41,57,Male,Rear,Business,,07-10-2020,City D,63,Collision
+389,13,39,Male,Rear,Business,,25-03-2020,City A,153,Collision
+390,45,53,Male,Middle,Economy,,04-11-2020,City C,179,Human Error
+391,89,42,Female,Front,Economy,,08-09-2021,City B,54,Derailment
+392,53,58,Female,Middle,Business,,30-12-2020,City A,153,Mechanical Failure
+393,42,39,Male,Middle,Economy,,14-10-2020,City C,58,Mechanical Failure
+394,100,14,Female,Front,Business,,24-11-2021,City C,153,Human Error
+395,63,5,Male,Rear,Business,,10-03-2021,City C,63,Derailment
+396,27,35,Male,Rear,Business,,01-07-2020,City B,64,Mechanical Failure
+397,38,75,Male,Front,Business,,16-09-2020,City B,181,Mechanical Failure
+398,60,18,Male,Rear,Economy,,17-02-2021,City C,103,Mechanical Failure
+399,7,76,Female,Middle,Economy,,12-02-2020,City A,152,Human Error
+400,5,9,Female,Front,Economy,,29-01-2020,City B,121,Derailment
+401,45,74,Female,Front,Economy,,04-11-2020,City C,179,Human Error
+402,58,58,Female,Middle,Economy,,03-02-2021,City A,155,Derailment
+403,31,17,Female,Front,Economy,,29-07-2020,City C,113,Derailment
+404,23,7,Female,Front,Business,,03-06-2020,City D,71,Human Error
+405,42,46,Female,Rear,Economy,,14-10-2020,City C,58,Mechanical Failure
+406,10,13,Female,Front,Economy,,04-03-2020,City A,137,Human Error
+407,32,40,Male,Front,Economy,,05-08-2020,City A,180,Derailment
+408,53,42,Male,Front,Economy,,30-12-2020,City A,153,Mechanical Failure
+409,30,9,Female,Middle,Business,,22-07-2020,City A,104,Collision
+410,39,50,Female,Middle,Business,,23-09-2020,City D,138,Collision
+411,31,27,Male,Front,Economy,,29-07-2020,City C,113,Derailment
+412,82,66,Female,Front,Business,,21-07-2021,City D,185,Mechanical Failure
+413,100,5,Male,Front,Business,,24-11-2021,City C,153,Human Error
+414,2,29,Female,Front,Economy,,08-01-2020,City D,142,Derailment
+415,78,37,Male,Middle,Business,,23-06-2021,City D,120,Derailment
+416,77,38,Male,Rear,Business,,16-06-2021,City B,138,Collision
+417,93,8,Female,Front,Business,,06-10-2021,City B,121,Derailment
+418,12,65,Female,Middle,Economy,,18-03-2020,City C,149,Human Error
+419,39,17,Male,Front,Economy,,23-09-2020,City D,138,Collision
+420,66,71,Female,Front,Business,,31-03-2021,City B,64,Collision
+421,96,45,Male,Middle,Economy,,27-10-2021,City B,97,Collision
+422,13,4,Female,Middle,Business,,25-03-2020,City A,153,Collision
+423,46,36,Male,Middle,Business,,11-11-2020,City C,133,Collision
+424,27,70,Male,Middle,Business,,01-07-2020,City B,64,Mechanical Failure
+425,17,31,Female,Front,Economy,,22-04-2020,City C,51,Derailment
+426,95,19,Male,Rear,Economy,,20-10-2021,City C,82,Collision
+427,98,61,Male,Middle,Business,,10-11-2021,City C,86,Mechanical Failure
+428,60,54,Female,Middle,Economy,,17-02-2021,City C,103,Mechanical Failure
+429,64,39,Male,Rear,Business,,17-03-2021,City D,144,Collision
+430,88,74,Female,Rear,Business,,01-09-2021,City A,172,Derailment
+431,35,19,Male,Middle,Economy,,26-08-2020,City B,70,Collision
+432,70,39,Male,Middle,Economy,,28-04-2021,City D,102,Collision
+433,83,67,Female,Middle,Business,,28-07-2021,City C,112,Derailment
+434,30,45,Female,Front,Business,,22-07-2020,City A,104,Collision
+435,71,13,Male,Front,Business,,05-05-2021,City C,73,Human Error
+436,74,58,Male,Middle,Business,,26-05-2021,City D,64,Derailment
+437,96,20,Female,Front,Business,,27-10-2021,City B,97,Collision
+438,98,72,Female,Rear,Business,,10-11-2021,City C,86,Mechanical Failure
+439,63,61,Female,Middle,Business,,10-03-2021,City C,63,Derailment
+440,28,39,Male,Front,Business,,08-07-2020,City A,100,Mechanical Failure
+441,60,1,Male,Middle,Economy,,17-02-2021,City C,103,Mechanical Failure
+442,79,3,Male,Rear,Economy,,30-06-2021,City B,58,Mechanical Failure
+443,94,77,Female,Middle,Business,,13-10-2021,City C,61,Collision
+444,37,62,Male,Middle,Economy,,09-09-2020,City D,67,Derailment
+445,93,63,Male,Rear,Economy,,06-10-2021,City B,121,Derailment
+446,22,25,Male,Front,Business,,27-05-2020,City D,107,Collision
+447,68,56,Female,Front,Economy,,14-04-2021,City D,131,Derailment
+448,20,33,Female,Rear,Economy,,13-05-2020,City C,179,Human Error
+449,96,38,Male,Rear,Business,,27-10-2021,City B,97,Collision
+450,100,6,Male,Front,Economy,,24-11-2021,City C,153,Human Error
+451,68,58,Female,Front,Economy,,14-04-2021,City D,131,Derailment
+452,91,44,Female,Rear,Business,,22-09-2021,City C,77,Human Error
+453,64,45,Female,Middle,Economy,,17-03-2021,City D,144,Collision
+454,17,32,Male,Rear,Business,,22-04-2020,City C,51,Derailment
+455,12,45,Male,Middle,Economy,,18-03-2020,City C,149,Human Error
+456,22,61,Female,Front,Economy,,27-05-2020,City D,107,Collision
+457,17,47,Female,Middle,Economy,,22-04-2020,City C,51,Derailment
+458,10,21,Female,Rear,Economy,,04-03-2020,City A,137,Human Error
+459,65,75,Female,Front,Business,,24-03-2021,City C,97,Derailment
+460,22,36,Female,Rear,Economy,,27-05-2020,City D,107,Collision
+461,90,19,Female,Middle,Economy,,15-09-2021,City B,90,Derailment
+462,82,20,Male,Front,Business,,21-07-2021,City D,185,Mechanical Failure
+463,50,57,Male,Rear,Business,,09-12-2020,City D,84,Human Error
+464,14,18,Male,Rear,Economy,,01-04-2020,City C,180,Derailment
+465,64,47,Female,Front,Economy,,17-03-2021,City D,144,Collision
+466,47,49,Female,Rear,Business,,18-11-2020,City D,141,Collision
+467,29,14,Female,Front,Business,,15-07-2020,City D,157,Derailment
+468,76,15,Male,Front,Economy,,09-06-2021,City B,114,Mechanical Failure
+469,36,31,Male,Middle,Economy,,02-09-2020,City B,122,Mechanical Failure
+470,99,1,Male,Front,Economy,,17-11-2021,City D,148,Human Error
+471,52,54,Male,Front,Business,,23-12-2020,City D,99,Mechanical Failure
+472,76,3,Male,Middle,Economy,,09-06-2021,City B,114,Mechanical Failure
+473,7,16,Male,Middle,Economy,,12-02-2020,City A,152,Human Error
+474,29,57,Male,Middle,Business,,15-07-2020,City D,157,Derailment
+475,11,75,Female,Front,Business,,11-03-2020,City A,166,Collision
+476,33,12,Male,Front,Economy,,12-08-2020,City C,100,Mechanical Failure
+477,6,74,Male,Middle,Business,,05-02-2020,City C,70,Mechanical Failure
+478,79,16,Female,Front,Economy,,30-06-2021,City B,58,Mechanical Failure
+479,32,72,Male,Front,Business,,05-08-2020,City A,180,Derailment
+480,51,76,Male,Middle,Business,,16-12-2020,City C,130,Mechanical Failure
+481,75,24,Female,Middle,Economy,,02-06-2021,City D,94,Human Error
+482,58,28,Female,Front,Economy,,03-02-2021,City A,155,Derailment
+483,87,8,Female,Rear,Economy,,25-08-2021,City C,82,Derailment
+484,26,36,Male,Front,Economy,,24-06-2020,City B,108,Collision
+485,98,8,Female,Middle,Economy,,10-11-2021,City C,86,Mechanical Failure
+486,46,58,Male,Front,Business,,11-11-2020,City C,133,Collision
+487,98,60,Female,Rear,Economy,,10-11-2021,City C,86,Mechanical Failure
+488,29,50,Male,Rear,Business,,15-07-2020,City D,157,Derailment
+489,4,28,Male,Front,Economy,,22-01-2020,City A,156,Derailment
+490,81,41,Female,Middle,Business,,14-07-2021,City C,178,Mechanical Failure
+491,99,64,Female,Rear,Economy,,17-11-2021,City D,148,Human Error
+492,13,27,Female,Rear,Business,,25-03-2020,City A,153,Collision
+493,39,63,Male,Rear,Business,,23-09-2020,City D,138,Collision
+494,15,17,Female,Rear,Business,,08-04-2020,City A,199,Mechanical Failure
+495,29,73,Female,Front,Business,,15-07-2020,City D,157,Derailment
+496,29,33,Male,Front,Business,,15-07-2020,City D,157,Derailment
+497,75,77,Female,Rear,Economy,,02-06-2021,City D,94,Human Error
+498,32,29,Male,Middle,Business,,05-08-2020,City A,180,Derailment
+499,2,13,Male,Rear,Economy,,08-01-2020,City D,142,Derailment
+500,47,46,Female,Front,Economy,,18-11-2020,City D,141,Collision
+501,78,35,Female,Rear,Business,,23-06-2021,City D,120,Derailment
+502,84,6,Female,Front,Economy,,04-08-2021,City A,188,Human Error
+503,22,69,Male,Rear,Business,,27-05-2020,City D,107,Collision
+504,75,47,Female,Middle,Business,,02-06-2021,City D,94,Human Error
+505,27,25,Female,Rear,Economy,,01-07-2020,City B,64,Mechanical Failure
+506,67,66,Female,Middle,Economy,,07-04-2021,City C,89,Mechanical Failure
+507,81,10,Male,Rear,Economy,,14-07-2021,City C,178,Mechanical Failure
+508,56,56,Female,Middle,Business,,20-01-2021,City C,183,Human Error
+509,92,30,Male,Middle,Business,,29-09-2021,City A,184,Human Error
+510,93,5,Male,Middle,Economy,,06-10-2021,City B,121,Derailment
+511,21,33,Female,Middle,Economy,,20-05-2020,City B,70,Derailment
+512,47,65,Male,Middle,Business,,18-11-2020,City D,141,Collision
+513,80,18,Male,Rear,Economy,,07-07-2021,City B,137,Human Error
+514,59,49,Male,Front,Economy,,10-02-2021,City B,53,Collision
+515,84,11,Female,Middle,Business,,04-08-2021,City A,188,Human Error
+516,6,26,Female,Rear,Economy,,05-02-2020,City C,70,Mechanical Failure
+517,19,63,Female,Middle,Economy,,06-05-2020,City C,87,Mechanical Failure
+518,57,59,Female,Rear,Business,,27-01-2021,City D,103,Mechanical Failure
+519,69,27,Female,Front,Business,,21-04-2021,City C,160,Human Error
+520,3,49,Male,Front,Economy,,15-01-2020,City C,64,Mechanical Failure
+521,1,77,Female,Rear,Economy,,01-01-2020,City B,152,Mechanical Failure
+522,58,33,Female,Rear,Economy,,03-02-2021,City A,155,Derailment
+523,38,1,Female,Rear,Economy,,16-09-2020,City B,181,Mechanical Failure
+524,15,21,Female,Front,Business,,08-04-2020,City A,199,Mechanical Failure
+525,34,55,Male,Middle,Economy,,19-08-2020,City C,184,Mechanical Failure
+526,61,6,Female,Middle,Economy,,24-02-2021,City D,195,Human Error
+527,35,69,Female,Middle,Economy,,26-08-2020,City B,70,Collision
+528,64,5,Male,Rear,Business,,17-03-2021,City D,144,Collision
+529,25,3,Male,Rear,Business,,17-06-2020,City B,98,Mechanical Failure
+530,24,53,Female,Rear,Economy,,10-06-2020,City C,138,Mechanical Failure
+531,12,23,Female,Front,Economy,,18-03-2020,City C,149,Human Error
+532,18,53,Female,Front,Economy,,29-04-2020,City B,137,Derailment
+533,15,37,Male,Front,Economy,,08-04-2020,City A,199,Mechanical Failure
+534,80,74,Female,Front,Economy,,07-07-2021,City B,137,Human Error
+535,27,74,Female,Rear,Economy,,01-07-2020,City B,64,Mechanical Failure
+536,72,17,Female,Front,Economy,,12-05-2021,City B,173,Mechanical Failure
+537,60,78,Female,Middle,Economy,,17-02-2021,City C,103,Mechanical Failure
+538,46,73,Female,Middle,Business,,11-11-2020,City C,133,Collision
+539,89,1,Female,Middle,Economy,,08-09-2021,City B,54,Derailment
+540,17,51,Male,Front,Business,,22-04-2020,City C,51,Derailment
+541,93,45,Female,Front,Business,,06-10-2021,City B,121,Derailment
+542,53,77,Female,Middle,Business,,30-12-2020,City A,153,Mechanical Failure
+543,8,4,Female,Rear,Economy,,19-02-2020,City C,171,Mechanical Failure
+544,79,62,Male,Rear,Business,,30-06-2021,City B,58,Mechanical Failure
+545,27,65,Male,Front,Economy,,01-07-2020,City B,64,Mechanical Failure
+546,46,32,Male,Middle,Business,,11-11-2020,City C,133,Collision
+547,50,34,Female,Rear,Business,,09-12-2020,City D,84,Human Error
+548,71,72,Female,Middle,Economy,,05-05-2021,City C,73,Human Error
+549,3,39,Male,Front,Economy,,15-01-2020,City C,64,Mechanical Failure
+550,93,26,Female,Middle,Business,,06-10-2021,City B,121,Derailment
+551,64,34,Male,Rear,Business,,17-03-2021,City D,144,Collision
+552,44,54,Female,Middle,Business,,28-10-2020,City B,102,Mechanical Failure
+553,53,3,Male,Front,Business,,30-12-2020,City A,153,Mechanical Failure
+554,24,50,Male,Middle,Economy,,10-06-2020,City C,138,Mechanical Failure
+555,60,12,Male,Rear,Economy,,17-02-2021,City C,103,Mechanical Failure
+556,3,65,Male,Middle,Business,,15-01-2020,City C,64,Mechanical Failure
+557,20,54,Female,Front,Business,,13-05-2020,City C,179,Human Error
+558,46,5,Male,Front,Economy,,11-11-2020,City C,133,Collision
+559,15,57,Male,Middle,Economy,,08-04-2020,City A,199,Mechanical Failure
+560,25,17,Male,Middle,Economy,,17-06-2020,City B,98,Mechanical Failure
+561,94,47,Male,Front,Economy,,13-10-2021,City C,61,Collision
+562,78,23,Female,Middle,Economy,,23-06-2021,City D,120,Derailment
+563,71,79,Male,Middle,Economy,,05-05-2021,City C,73,Human Error
+564,17,14,Male,Rear,Business,,22-04-2020,City C,51,Derailment
+565,84,66,Male,Rear,Business,,04-08-2021,City A,188,Human Error
+566,100,75,Female,Rear,Business,,24-11-2021,City C,153,Human Error
+567,9,51,Male,Middle,Economy,,26-02-2020,City D,124,Derailment
+568,38,38,Male,Front,Business,,16-09-2020,City B,181,Mechanical Failure
+569,48,64,Male,Middle,Economy,,25-11-2020,City C,160,Derailment
+570,60,38,Female,Front,Business,,17-02-2021,City C,103,Mechanical Failure
+571,63,50,Male,Middle,Business,,10-03-2021,City C,63,Derailment
+572,86,30,Male,Rear,Economy,,18-08-2021,City C,185,Human Error
+573,2,79,Female,Front,Economy,,08-01-2020,City D,142,Derailment
+574,88,51,Male,Rear,Economy,,01-09-2021,City A,172,Derailment
+575,72,63,Male,Front,Economy,,12-05-2021,City B,173,Mechanical Failure
+576,11,52,Male,Front,Business,,11-03-2020,City A,166,Collision
+577,64,38,Female,Middle,Business,,17-03-2021,City D,144,Collision
+578,77,79,Male,Front,Business,,16-06-2021,City B,138,Collision
+579,81,30,Male,Front,Economy,,14-07-2021,City C,178,Mechanical Failure
+580,72,51,Female,Rear,Economy,,12-05-2021,City B,173,Mechanical Failure
+581,21,5,Female,Front,Business,,20-05-2020,City B,70,Derailment
+582,18,29,Female,Middle,Economy,,29-04-2020,City B,137,Derailment
+583,94,4,Male,Middle,Economy,,13-10-2021,City C,61,Collision
+584,64,10,Female,Middle,Economy,,17-03-2021,City D,144,Collision
+585,82,56,Male,Front,Economy,,21-07-2021,City D,185,Mechanical Failure
+586,95,17,Male,Front,Business,,20-10-2021,City C,82,Collision
+587,38,74,Male,Rear,Economy,,16-09-2020,City B,181,Mechanical Failure
+588,32,17,Female,Front,Economy,,05-08-2020,City A,180,Derailment
+589,11,69,Female,Front,Economy,,11-03-2020,City A,166,Collision
+590,45,34,Female,Front,Economy,,04-11-2020,City C,179,Human Error
+591,89,6,Male,Front,Economy,,08-09-2021,City B,54,Derailment
+592,33,53,Female,Front,Economy,,12-08-2020,City C,100,Mechanical Failure
+593,41,66,Male,Middle,Economy,,07-10-2020,City D,63,Collision
+594,8,77,Male,Middle,Business,,19-02-2020,City C,171,Mechanical Failure
+595,11,43,Male,Rear,Economy,,11-03-2020,City A,166,Collision
+596,86,75,Male,Middle,Economy,,18-08-2021,City C,185,Human Error
+597,51,23,Female,Rear,Economy,,16-12-2020,City C,130,Mechanical Failure
+598,88,55,Male,Rear,Business,,01-09-2021,City A,172,Derailment
+599,41,75,Female,Middle,Economy,,07-10-2020,City D,63,Collision
+600,17,16,Female,Front,Economy,,22-04-2020,City C,51,Derailment
+601,76,8,Female,Rear,Economy,,09-06-2021,City B,114,Mechanical Failure
+602,46,4,Female,Rear,Economy,,11-11-2020,City C,133,Collision
+603,32,4,Female,Rear,Business,,05-08-2020,City A,180,Derailment
+604,79,56,Male,Rear,Business,,30-06-2021,City B,58,Mechanical Failure
+605,80,25,Female,Middle,Economy,,07-07-2021,City B,137,Human Error
+606,54,67,Male,Front,Business,,06-01-2021,City D,181,Human Error
+607,86,67,Male,Rear,Business,,18-08-2021,City C,185,Human Error
+608,92,27,Female,Rear,Business,,29-09-2021,City A,184,Human Error
+609,20,32,Female,Front,Business,,13-05-2020,City C,179,Human Error
+610,33,50,Female,Middle,Business,,12-08-2020,City C,100,Mechanical Failure
+611,74,61,Female,Middle,Business,,26-05-2021,City D,64,Derailment
+612,40,51,Female,Rear,Economy,,30-09-2020,City A,109,Collision
+613,32,19,Female,Middle,Business,,05-08-2020,City A,180,Derailment
+614,97,21,Female,Middle,Economy,,03-11-2021,City D,111,Collision
+615,2,5,Male,Front,Economy,,08-01-2020,City D,142,Derailment
+616,97,42,Male,Rear,Economy,,03-11-2021,City D,111,Collision
+617,33,61,Female,Rear,Business,,12-08-2020,City C,100,Mechanical Failure
+618,77,22,Female,Front,Business,,16-06-2021,City B,138,Collision
+619,30,21,Female,Front,Economy,,22-07-2020,City A,104,Collision
+620,33,70,Female,Front,Business,,12-08-2020,City C,100,Mechanical Failure
+621,77,1,Female,Rear,Business,,16-06-2021,City B,138,Collision
+622,26,5,Female,Rear,Economy,,24-06-2020,City B,108,Collision
+623,22,12,Female,Middle,Economy,,27-05-2020,City D,107,Collision
+624,66,46,Female,Middle,Business,,31-03-2021,City B,64,Collision
+625,38,34,Male,Front,Business,,16-09-2020,City B,181,Mechanical Failure
+626,90,49,Male,Front,Business,,15-09-2021,City B,90,Derailment
+627,46,78,Female,Rear,Economy,,11-11-2020,City C,133,Collision
+628,15,45,Male,Middle,Business,,08-04-2020,City A,199,Mechanical Failure
+629,98,27,Male,Front,Business,,10-11-2021,City C,86,Mechanical Failure
+630,44,73,Female,Middle,Business,,28-10-2020,City B,102,Mechanical Failure
+631,49,26,Male,Middle,Business,,02-12-2020,City C,57,Collision
+632,75,47,Female,Front,Economy,,02-06-2021,City D,94,Human Error
+633,61,56,Female,Front,Business,,24-02-2021,City D,195,Human Error
+634,67,63,Male,Rear,Business,,07-04-2021,City C,89,Mechanical Failure
+635,6,48,Female,Front,Economy,,05-02-2020,City C,70,Mechanical Failure
+636,9,61,Female,Front,Business,,26-02-2020,City D,124,Derailment
+637,6,26,Male,Middle,Business,,05-02-2020,City C,70,Mechanical Failure
+638,73,36,Male,Front,Economy,,19-05-2021,City B,90,Human Error
+639,95,1,Female,Middle,Economy,,20-10-2021,City C,82,Collision
+640,32,8,Female,Front,Economy,,05-08-2020,City A,180,Derailment
+641,41,52,Male,Rear,Economy,,07-10-2020,City D,63,Collision
+642,76,79,Female,Front,Business,,09-06-2021,City B,114,Mechanical Failure
+643,8,47,Male,Middle,Business,,19-02-2020,City C,171,Mechanical Failure
+644,72,56,Male,Rear,Business,,12-05-2021,City B,173,Mechanical Failure
+645,50,14,Female,Front,Economy,,09-12-2020,City D,84,Human Error
+646,92,28,Male,Middle,Business,,29-09-2021,City A,184,Human Error
+647,62,78,Female,Middle,Economy,,03-03-2021,City D,93,Collision
+648,84,2,Male,Front,Business,,04-08-2021,City A,188,Human Error
+649,62,26,Female,Rear,Economy,,03-03-2021,City D,93,Collision
+650,7,14,Male,Front,Business,,12-02-2020,City A,152,Human Error
+651,75,59,Male,Middle,Business,,02-06-2021,City D,94,Human Error
+652,84,56,Female,Front,Economy,,04-08-2021,City A,188,Human Error
+653,80,7,Male,Front,Economy,,07-07-2021,City B,137,Human Error
+654,4,3,Female,Rear,Business,,22-01-2020,City A,156,Derailment
+655,6,23,Female,Rear,Economy,,05-02-2020,City C,70,Mechanical Failure
+656,58,18,Male,Middle,Business,,03-02-2021,City A,155,Derailment
+657,22,38,Male,Middle,Economy,,27-05-2020,City D,107,Collision
+658,26,15,Female,Middle,Economy,,24-06-2020,City B,108,Collision
+659,3,64,Female,Rear,Economy,,15-01-2020,City C,64,Mechanical Failure
+660,41,28,Female,Rear,Economy,,07-10-2020,City D,63,Collision
+661,60,74,Male,Front,Business,,17-02-2021,City C,103,Mechanical Failure
+662,14,39,Female,Rear,Business,,01-04-2020,City C,180,Derailment
+663,75,57,Female,Rear,Economy,,02-06-2021,City D,94,Human Error
+664,82,17,Female,Rear,Business,,21-07-2021,City D,185,Mechanical Failure
+665,12,44,Male,Front,Business,,18-03-2020,City C,149,Human Error
+666,87,25,Female,Rear,Business,,25-08-2021,City C,82,Derailment
+667,12,17,Male,Middle,Economy,,18-03-2020,City C,149,Human Error
+668,13,13,Male,Rear,Economy,,25-03-2020,City A,153,Collision
+669,25,25,Male,Middle,Business,,17-06-2020,City B,98,Mechanical Failure
+670,45,68,Female,Rear,Business,,04-11-2020,City C,179,Human Error
+671,19,10,Female,Front,Economy,,06-05-2020,City C,87,Mechanical Failure
+672,55,67,Male,Middle,Economy,,13-01-2021,City D,51,Collision
+673,100,18,Male,Rear,Economy,,24-11-2021,City C,153,Human Error
+674,45,34,Female,Front,Economy,,04-11-2020,City C,179,Human Error
+675,8,8,Female,Middle,Business,,19-02-2020,City C,171,Mechanical Failure
+676,93,40,Male,Rear,Economy,,06-10-2021,City B,121,Derailment
+677,53,42,Female,Rear,Business,,30-12-2020,City A,153,Mechanical Failure
+678,55,41,Male,Middle,Economy,,13-01-2021,City D,51,Collision
+679,32,6,Male,Middle,Economy,,05-08-2020,City A,180,Derailment
+680,51,52,Male,Front,Economy,,16-12-2020,City C,130,Mechanical Failure
+681,44,26,Male,Rear,Economy,,28-10-2020,City B,102,Mechanical Failure
+682,82,64,Male,Rear,Economy,,21-07-2021,City D,185,Mechanical Failure
+683,70,59,Male,Front,Business,,28-04-2021,City D,102,Collision
+684,18,56,Female,Middle,Economy,,29-04-2020,City B,137,Derailment
+685,83,59,Male,Middle,Business,,28-07-2021,City C,112,Derailment
+686,22,70,Male,Rear,Business,,27-05-2020,City D,107,Collision
+687,37,33,Female,Front,Business,,09-09-2020,City D,67,Derailment
+688,96,53,Female,Middle,Business,,27-10-2021,City B,97,Collision
+689,56,22,Male,Rear,Economy,,20-01-2021,City C,183,Human Error
+690,59,21,Female,Front,Economy,,10-02-2021,City B,53,Collision
+691,3,70,Female,Front,Business,,15-01-2020,City C,64,Mechanical Failure
+692,28,70,Male,Front,Business,,08-07-2020,City A,100,Mechanical Failure
+693,74,4,Male,Front,Economy,,26-05-2021,City D,64,Derailment
+694,35,75,Female,Front,Economy,,26-08-2020,City B,70,Collision
+695,61,62,Male,Middle,Business,,24-02-2021,City D,195,Human Error
+696,93,62,Male,Front,Business,,06-10-2021,City B,121,Derailment
+697,54,24,Male,Front,Economy,,06-01-2021,City D,181,Human Error
+698,63,55,Male,Rear,Economy,,10-03-2021,City C,63,Derailment
+699,79,9,Male,Rear,Business,,30-06-2021,City B,58,Mechanical Failure
+700,97,3,Male,Front,Business,,03-11-2021,City D,111,Collision
+701,7,31,Female,Front,Economy,,12-02-2020,City A,152,Human Error
+702,76,40,Male,Front,Economy,,09-06-2021,City B,114,Mechanical Failure
+703,49,36,Female,Front,Economy,,02-12-2020,City C,57,Collision
+704,94,24,Female,Rear,Business,,13-10-2021,City C,61,Collision
+705,85,6,Female,Middle,Economy,,11-08-2021,City D,130,Collision
+706,31,66,Male,Front,Economy,,29-07-2020,City C,113,Derailment
+707,58,75,Female,Front,Business,,03-02-2021,City A,155,Derailment
+708,61,4,Male,Middle,Business,,24-02-2021,City D,195,Human Error
+709,24,79,Female,Rear,Economy,,10-06-2020,City C,138,Mechanical Failure
+710,20,6,Male,Front,Economy,,13-05-2020,City C,179,Human Error
+711,37,51,Female,Middle,Business,,09-09-2020,City D,67,Derailment
+712,4,62,Male,Front,Economy,,22-01-2020,City A,156,Derailment
+713,92,57,Male,Front,Business,,29-09-2021,City A,184,Human Error
+714,20,66,Male,Front,Economy,,13-05-2020,City C,179,Human Error
+715,60,79,Male,Front,Business,,17-02-2021,City C,103,Mechanical Failure
+716,24,75,Female,Rear,Economy,,10-06-2020,City C,138,Mechanical Failure
+717,50,8,Male,Front,Economy,,09-12-2020,City D,84,Human Error
+718,49,26,Male,Front,Economy,,02-12-2020,City C,57,Collision
+719,51,51,Male,Middle,Economy,,16-12-2020,City C,130,Mechanical Failure
+720,96,45,Male,Rear,Economy,,27-10-2021,City B,97,Collision
+721,36,44,Female,Middle,Business,,02-09-2020,City B,122,Mechanical Failure
+722,98,5,Male,Front,Business,,10-11-2021,City C,86,Mechanical Failure
+723,100,70,Female,Middle,Business,,24-11-2021,City C,153,Human Error
+724,66,26,Female,Middle,Economy,,31-03-2021,City B,64,Collision
+725,79,68,Male,Rear,Business,,30-06-2021,City B,58,Mechanical Failure
+726,34,19,Male,Middle,Business,,19-08-2020,City C,184,Mechanical Failure
+727,36,20,Male,Front,Business,,02-09-2020,City B,122,Mechanical Failure
+728,6,12,Male,Front,Business,,05-02-2020,City C,70,Mechanical Failure
+729,39,47,Male,Rear,Business,,23-09-2020,City D,138,Collision
+730,42,1,Female,Front,Business,,14-10-2020,City C,58,Mechanical Failure
+731,58,14,Male,Middle,Economy,,03-02-2021,City A,155,Derailment
+732,12,64,Female,Rear,Business,,18-03-2020,City C,149,Human Error
+733,3,38,Female,Rear,Business,,15-01-2020,City C,64,Mechanical Failure
+734,18,37,Female,Middle,Economy,,29-04-2020,City B,137,Derailment
+735,40,11,Female,Rear,Economy,,30-09-2020,City A,109,Collision
+736,21,77,Female,Rear,Business,,20-05-2020,City B,70,Derailment
+737,15,3,Female,Middle,Economy,,08-04-2020,City A,199,Mechanical Failure
+738,97,33,Male,Middle,Economy,,03-11-2021,City D,111,Collision
+739,99,6,Female,Front,Economy,,17-11-2021,City D,148,Human Error
+740,26,50,Female,Front,Business,,24-06-2020,City B,108,Collision
+741,8,10,Female,Middle,Economy,,19-02-2020,City C,171,Mechanical Failure
+742,100,5,Female,Rear,Economy,,24-11-2021,City C,153,Human Error
+743,94,23,Male,Rear,Business,,13-10-2021,City C,61,Collision
+744,87,10,Male,Front,Business,,25-08-2021,City C,82,Derailment
+745,42,44,Female,Rear,Business,,14-10-2020,City C,58,Mechanical Failure
+746,44,2,Female,Middle,Economy,,28-10-2020,City B,102,Mechanical Failure
+747,14,13,Male,Rear,Business,,01-04-2020,City C,180,Derailment
+748,78,40,Male,Front,Economy,,23-06-2021,City D,120,Derailment
+749,2,2,Female,Rear,Business,,08-01-2020,City D,142,Derailment
+750,37,65,Female,Rear,Business,,09-09-2020,City D,67,Derailment
+751,69,63,Male,Front,Economy,,21-04-2021,City C,160,Human Error
+752,38,73,Female,Middle,Economy,,16-09-2020,City B,181,Mechanical Failure
+753,41,17,Female,Front,Business,,07-10-2020,City D,63,Collision
+754,62,9,Female,Front,Business,,03-03-2021,City D,93,Collision
+755,60,75,Male,Front,Economy,,17-02-2021,City C,103,Mechanical Failure
+756,14,15,Male,Rear,Business,,01-04-2020,City C,180,Derailment
+757,89,24,Male,Middle,Business,,08-09-2021,City B,54,Derailment
+758,84,38,Female,Middle,Economy,,04-08-2021,City A,188,Human Error
+759,2,35,Male,Middle,Economy,,08-01-2020,City D,142,Derailment
+760,70,49,Male,Front,Business,,28-04-2021,City D,102,Collision
+761,17,69,Male,Front,Economy,,22-04-2020,City C,51,Derailment
+762,89,62,Male,Rear,Business,,08-09-2021,City B,54,Derailment
+763,28,60,Female,Middle,Economy,,08-07-2020,City A,100,Mechanical Failure
+764,66,50,Female,Rear,Economy,,31-03-2021,City B,64,Collision
+765,35,78,Female,Front,Business,,26-08-2020,City B,70,Collision
+766,5,75,Female,Middle,Business,,29-01-2020,City B,121,Derailment
+767,65,9,Male,Front,Economy,,24-03-2021,City C,97,Derailment
+768,40,34,Female,Rear,Business,,30-09-2020,City A,109,Collision
+769,76,76,Male,Rear,Economy,,09-06-2021,City B,114,Mechanical Failure
+770,56,35,Female,Rear,Economy,,20-01-2021,City C,183,Human Error
+771,36,1,Male,Front,Business,,02-09-2020,City B,122,Mechanical Failure
+772,45,40,Female,Front,Economy,,04-11-2020,City C,179,Human Error
+773,23,64,Female,Rear,Economy,,03-06-2020,City D,71,Human Error
+774,47,22,Female,Rear,Economy,,18-11-2020,City D,141,Collision
+775,31,60,Male,Rear,Business,,29-07-2020,City C,113,Derailment
+776,11,64,Female,Front,Business,,11-03-2020,City A,166,Collision
+777,10,72,Male,Front,Economy,,04-03-2020,City A,137,Human Error
+778,67,11,Female,Front,Business,,07-04-2021,City C,89,Mechanical Failure
+779,14,14,Female,Front,Economy,,01-04-2020,City C,180,Derailment
+780,80,60,Male,Front,Business,,07-07-2021,City B,137,Human Error
+781,74,30,Male,Middle,Economy,,26-05-2021,City D,64,Derailment
+782,93,35,Male,Front,Business,,06-10-2021,City B,121,Derailment
+783,10,37,Female,Front,Economy,,04-03-2020,City A,137,Human Error
+784,76,5,Male,Middle,Business,,09-06-2021,City B,114,Mechanical Failure
+785,94,78,Male,Front,Economy,,13-10-2021,City C,61,Collision
+786,1,26,Male,Rear,Economy,,01-01-2020,City B,152,Mechanical Failure
+787,5,62,Female,Rear,Economy,,29-01-2020,City B,121,Derailment
+788,20,4,Female,Front,Business,,13-05-2020,City C,179,Human Error
+789,8,42,Female,Middle,Business,,19-02-2020,City C,171,Mechanical Failure
+790,43,18,Female,Rear,Economy,,21-10-2020,City D,139,Derailment
+791,76,40,Male,Middle,Business,,09-06-2021,City B,114,Mechanical Failure
+792,1,72,Male,Front,Business,,01-01-2020,City B,152,Mechanical Failure
+793,57,39,Female,Front,Economy,,27-01-2021,City D,103,Mechanical Failure
+794,64,14,Female,Rear,Business,,17-03-2021,City D,144,Collision
+795,84,32,Female,Rear,Economy,,04-08-2021,City A,188,Human Error
+796,28,51,Male,Middle,Economy,,08-07-2020,City A,100,Mechanical Failure
+797,37,38,Male,Middle,Economy,,09-09-2020,City D,67,Derailment
+798,47,23,Female,Rear,Economy,,18-11-2020,City D,141,Collision
+799,76,63,Female,Rear,Business,,09-06-2021,City B,114,Mechanical Failure
+800,37,15,Male,Front,Business,,09-09-2020,City D,67,Derailment
+801,49,25,Male,Rear,Economy,,02-12-2020,City C,57,Collision
+802,44,17,Female,Front,Business,,28-10-2020,City B,102,Mechanical Failure
+803,56,66,Female,Front,Business,,20-01-2021,City C,183,Human Error
+804,28,78,Female,Middle,Business,,08-07-2020,City A,100,Mechanical Failure
+805,79,53,Male,Front,Business,,30-06-2021,City B,58,Mechanical Failure
+806,6,51,Female,Middle,Economy,,05-02-2020,City C,70,Mechanical Failure
+807,61,39,Female,Front,Economy,,24-02-2021,City D,195,Human Error
+808,20,51,Female,Middle,Business,,13-05-2020,City C,179,Human Error
+809,78,70,Female,Front,Business,,23-06-2021,City D,120,Derailment
+810,2,6,Male,Rear,Economy,,08-01-2020,City D,142,Derailment
+811,73,67,Female,Rear,Business,,19-05-2021,City B,90,Human Error
+812,37,7,Female,Middle,Economy,,09-09-2020,City D,67,Derailment
+813,20,51,Male,Rear,Economy,,13-05-2020,City C,179,Human Error
+814,26,72,Male,Rear,Economy,,24-06-2020,City B,108,Collision
+815,29,42,Female,Middle,Economy,,15-07-2020,City D,157,Derailment
+816,1,64,Female,Rear,Economy,,01-01-2020,City B,152,Mechanical Failure
+817,35,15,Male,Front,Economy,,26-08-2020,City B,70,Collision
+818,70,29,Female,Middle,Business,,28-04-2021,City D,102,Collision
+819,59,33,Female,Rear,Economy,,10-02-2021,City B,53,Collision
+820,69,27,Female,Front,Economy,,21-04-2021,City C,160,Human Error
+821,33,36,Female,Middle,Economy,,12-08-2020,City C,100,Mechanical Failure
+822,51,29,Male,Rear,Economy,,16-12-2020,City C,130,Mechanical Failure
+823,78,38,Female,Front,Economy,,23-06-2021,City D,120,Derailment
+824,12,57,Male,Middle,Economy,,18-03-2020,City C,149,Human Error
+825,20,27,Female,Middle,Economy,,13-05-2020,City C,179,Human Error
+826,53,55,Male,Rear,Economy,,30-12-2020,City A,153,Mechanical Failure
+827,88,33,Female,Front,Business,,01-09-2021,City A,172,Derailment
+828,43,68,Male,Middle,Business,,21-10-2020,City D,139,Derailment
+829,98,66,Female,Middle,Economy,,10-11-2021,City C,86,Mechanical Failure
+830,89,10,Female,Rear,Economy,,08-09-2021,City B,54,Derailment
+831,50,5,Male,Middle,Economy,,09-12-2020,City D,84,Human Error
+832,29,74,Female,Middle,Economy,,15-07-2020,City D,157,Derailment
+833,57,38,Female,Middle,Business,,27-01-2021,City D,103,Mechanical Failure
+834,39,13,Male,Middle,Business,,23-09-2020,City D,138,Collision
+835,95,31,Male,Rear,Economy,,20-10-2021,City C,82,Collision
+836,56,47,Female,Rear,Business,,20-01-2021,City C,183,Human Error
+837,43,52,Male,Middle,Economy,,21-10-2020,City D,139,Derailment
+838,50,56,Male,Middle,Economy,,09-12-2020,City D,84,Human Error
+839,23,15,Female,Rear,Business,,03-06-2020,City D,71,Human Error
+840,44,29,Male,Rear,Economy,,28-10-2020,City B,102,Mechanical Failure
+841,38,8,Female,Rear,Business,,16-09-2020,City B,181,Mechanical Failure
+842,84,5,Female,Rear,Business,,04-08-2021,City A,188,Human Error
+843,23,29,Male,Rear,Economy,,03-06-2020,City D,71,Human Error
+844,45,47,Male,Middle,Economy,,04-11-2020,City C,179,Human Error
+845,52,68,Female,Rear,Business,,23-12-2020,City D,99,Mechanical Failure
+846,80,76,Female,Middle,Economy,,07-07-2021,City B,137,Human Error
+847,50,45,Male,Front,Business,,09-12-2020,City D,84,Human Error
+848,8,2,Female,Middle,Economy,,19-02-2020,City C,171,Mechanical Failure
+849,85,27,Female,Middle,Economy,,11-08-2021,City D,130,Collision
+850,1,36,Male,Front,Economy,,01-01-2020,City B,152,Mechanical Failure
+851,8,36,Female,Middle,Business,,19-02-2020,City C,171,Mechanical Failure
+852,29,26,Male,Middle,Business,,15-07-2020,City D,157,Derailment
+853,96,43,Female,Middle,Business,,27-10-2021,City B,97,Collision
+854,5,27,Male,Rear,Economy,,29-01-2020,City B,121,Derailment
+855,86,69,Male,Middle,Business,,18-08-2021,City C,185,Human Error
+856,47,20,Male,Rear,Economy,,18-11-2020,City D,141,Collision
+857,34,11,Female,Middle,Economy,,19-08-2020,City C,184,Mechanical Failure
+858,65,74,Male,Middle,Business,,24-03-2021,City C,97,Derailment
+859,55,38,Female,Front,Business,,13-01-2021,City D,51,Collision
+860,90,6,Female,Rear,Economy,,15-09-2021,City B,90,Derailment
+861,43,72,Female,Rear,Economy,,21-10-2020,City D,139,Derailment
+862,74,23,Female,Middle,Business,,26-05-2021,City D,64,Derailment
+863,30,47,Male,Rear,Business,,22-07-2020,City A,104,Collision
+864,82,46,Male,Rear,Business,,21-07-2021,City D,185,Mechanical Failure
+865,17,12,Male,Front,Business,,22-04-2020,City C,51,Derailment
+866,26,13,Female,Front,Economy,,24-06-2020,City B,108,Collision
+867,8,62,Female,Front,Business,,19-02-2020,City C,171,Mechanical Failure
+868,47,60,Male,Front,Economy,,18-11-2020,City D,141,Collision
+869,76,43,Female,Front,Business,,09-06-2021,City B,114,Mechanical Failure
+870,91,76,Male,Middle,Business,,22-09-2021,City C,77,Human Error
+871,72,68,Male,Rear,Business,,12-05-2021,City B,173,Mechanical Failure
+872,89,5,Female,Middle,Business,,08-09-2021,City B,54,Derailment
+873,46,37,Female,Middle,Economy,,11-11-2020,City C,133,Collision
+874,68,72,Male,Middle,Economy,,14-04-2021,City D,131,Derailment
+875,33,31,Male,Rear,Economy,,12-08-2020,City C,100,Mechanical Failure
+876,1,9,Male,Rear,Economy,,01-01-2020,City B,152,Mechanical Failure
+877,19,51,Male,Middle,Business,,06-05-2020,City C,87,Mechanical Failure
+878,31,29,Female,Rear,Economy,,29-07-2020,City C,113,Derailment
+879,80,78,Male,Front,Economy,,07-07-2021,City B,137,Human Error
+880,14,40,Female,Middle,Business,,01-04-2020,City C,180,Derailment
+881,53,41,Male,Front,Business,,30-12-2020,City A,153,Mechanical Failure
+882,48,11,Female,Rear,Economy,,25-11-2020,City C,160,Derailment
+883,69,23,Female,Front,Economy,,21-04-2021,City C,160,Human Error
+884,90,1,Male,Middle,Business,,15-09-2021,City B,90,Derailment
+885,62,46,Male,Middle,Economy,,03-03-2021,City D,93,Collision
+886,92,21,Male,Middle,Economy,,29-09-2021,City A,184,Human Error
+887,66,36,Female,Front,Business,,31-03-2021,City B,64,Collision
+888,64,54,Female,Front,Business,,17-03-2021,City D,144,Collision
+889,70,57,Female,Rear,Economy,,28-04-2021,City D,102,Collision
+890,63,1,Male,Front,Business,,10-03-2021,City C,63,Derailment
+891,73,63,Male,Front,Economy,,19-05-2021,City B,90,Human Error
+892,33,54,Male,Middle,Business,,12-08-2020,City C,100,Mechanical Failure
+893,41,55,Male,Front,Economy,,07-10-2020,City D,63,Collision
+894,89,40,Male,Front,Economy,,08-09-2021,City B,54,Derailment
+895,48,15,Female,Rear,Economy,,25-11-2020,City C,160,Derailment
+896,13,21,Male,Middle,Economy,,25-03-2020,City A,153,Collision
+897,73,47,Female,Middle,Business,,19-05-2021,City B,90,Human Error
+898,77,73,Male,Middle,Economy,,16-06-2021,City B,138,Collision
+899,31,53,Female,Rear,Economy,,29-07-2020,City C,113,Derailment
+900,75,9,Female,Middle,Economy,,02-06-2021,City D,94,Human Error
+901,68,74,Female,Rear,Economy,,14-04-2021,City D,131,Derailment
+902,98,52,Female,Rear,Economy,,10-11-2021,City C,86,Mechanical Failure
+903,4,57,Male,Rear,Business,,22-01-2020,City A,156,Derailment
+904,19,26,Female,Front,Economy,,06-05-2020,City C,87,Mechanical Failure
+905,70,41,Female,Front,Economy,,28-04-2021,City D,102,Collision
+906,98,35,Male,Front,Economy,,10-11-2021,City C,86,Mechanical Failure
+907,82,63,Male,Rear,Economy,,21-07-2021,City D,185,Mechanical Failure
+908,13,25,Female,Rear,Business,,25-03-2020,City A,153,Collision
+909,23,75,Male,Front,Business,,03-06-2020,City D,71,Human Error
+910,83,38,Male,Front,Business,,28-07-2021,City C,112,Derailment
+911,75,2,Male,Middle,Economy,,02-06-2021,City D,94,Human Error
+912,1,7,Male,Front,Economy,,01-01-2020,City B,152,Mechanical Failure
+913,88,34,Female,Front,Business,,01-09-2021,City A,172,Derailment
+914,54,17,Male,Front,Economy,,06-01-2021,City D,181,Human Error
+915,71,43,Female,Front,Economy,,05-05-2021,City C,73,Human Error
+916,89,59,Male,Front,Economy,,08-09-2021,City B,54,Derailment
+917,85,51,Male,Rear,Economy,,11-08-2021,City D,130,Collision
+918,15,54,Female,Middle,Economy,,08-04-2020,City A,199,Mechanical Failure
+919,65,24,Male,Middle,Economy,,24-03-2021,City C,97,Derailment
+920,76,25,Male,Rear,Business,,09-06-2021,City B,114,Mechanical Failure
+921,71,71,Male,Front,Economy,,05-05-2021,City C,73,Human Error
+922,15,52,Male,Front,Business,,08-04-2020,City A,199,Mechanical Failure
+923,21,70,Male,Rear,Business,,20-05-2020,City B,70,Derailment
+924,19,33,Female,Front,Business,,06-05-2020,City C,87,Mechanical Failure
+925,60,49,Female,Front,Economy,,17-02-2021,City C,103,Mechanical Failure
+926,93,29,Female,Rear,Business,,06-10-2021,City B,121,Derailment
+927,89,63,Female,Middle,Business,,08-09-2021,City B,54,Derailment
+928,33,22,Female,Middle,Economy,,12-08-2020,City C,100,Mechanical Failure
+929,49,26,Male,Front,Economy,,02-12-2020,City C,57,Collision
+930,96,28,Female,Front,Business,,27-10-2021,City B,97,Collision
+931,35,49,Male,Front,Economy,,26-08-2020,City B,70,Collision
+932,44,71,Male,Front,Economy,,28-10-2020,City B,102,Mechanical Failure
+933,90,49,Female,Front,Economy,,15-09-2021,City B,90,Derailment
+934,11,20,Male,Middle,Economy,,11-03-2020,City A,166,Collision
+935,99,63,Male,Middle,Business,,17-11-2021,City D,148,Human Error
+936,72,61,Female,Front,Economy,,12-05-2021,City B,173,Mechanical Failure
+937,78,49,Male,Middle,Business,,23-06-2021,City D,120,Derailment
+938,74,71,Female,Rear,Business,,26-05-2021,City D,64,Derailment
+939,66,1,Female,Middle,Business,,31-03-2021,City B,64,Collision
+940,46,13,Female,Rear,Business,,11-11-2020,City C,133,Collision
+941,9,51,Male,Front,Business,,26-02-2020,City D,124,Derailment
+942,3,56,Male,Middle,Business,,15-01-2020,City C,64,Mechanical Failure
+943,85,62,Male,Middle,Business,,11-08-2021,City D,130,Collision
+944,26,32,Male,Rear,Economy,,24-06-2020,City B,108,Collision
+945,72,30,Male,Rear,Business,,12-05-2021,City B,173,Mechanical Failure
+946,48,29,Female,Middle,Economy,,25-11-2020,City C,160,Derailment
+947,66,49,Male,Middle,Economy,,31-03-2021,City B,64,Collision
+948,70,45,Male,Middle,Economy,,28-04-2021,City D,102,Collision
+949,28,30,Male,Middle,Business,,08-07-2020,City A,100,Mechanical Failure
+950,93,16,Female,Rear,Economy,,06-10-2021,City B,121,Derailment
+951,26,40,Male,Rear,Business,,24-06-2020,City B,108,Collision
+952,25,19,Female,Middle,Economy,,17-06-2020,City B,98,Mechanical Failure
+953,12,18,Male,Rear,Economy,,18-03-2020,City C,149,Human Error
+954,5,1,Female,Front,Business,,29-01-2020,City B,121,Derailment
+955,98,78,Female,Rear,Business,,10-11-2021,City C,86,Mechanical Failure
+956,48,47,Female,Front,Business,,25-11-2020,City C,160,Derailment
+957,37,66,Male,Front,Economy,,09-09-2020,City D,67,Derailment
+958,79,38,Female,Front,Business,,30-06-2021,City B,58,Mechanical Failure
+959,44,51,Male,Front,Economy,,28-10-2020,City B,102,Mechanical Failure
+960,100,63,Female,Rear,Economy,,24-11-2021,City C,153,Human Error
+961,15,4,Male,Middle,Business,,08-04-2020,City A,199,Mechanical Failure
+962,43,1,Female,Front,Economy,,21-10-2020,City D,139,Derailment
+963,48,8,Female,Middle,Business,,25-11-2020,City C,160,Derailment
+964,87,29,Male,Rear,Business,,25-08-2021,City C,82,Derailment
+965,70,55,Female,Front,Business,,28-04-2021,City D,102,Collision
+966,46,3,Male,Middle,Business,,11-11-2020,City C,133,Collision
+967,43,32,Male,Rear,Economy,,21-10-2020,City D,139,Derailment
+968,21,10,Female,Front,Business,,20-05-2020,City B,70,Derailment
+969,23,74,Male,Rear,Economy,,03-06-2020,City D,71,Human Error
+970,80,34,Male,Middle,Economy,,07-07-2021,City B,137,Human Error
+971,47,55,Male,Front,Economy,,18-11-2020,City D,141,Collision
+972,15,32,Male,Middle,Economy,,08-04-2020,City A,199,Mechanical Failure
+973,25,50,Male,Middle,Economy,,17-06-2020,City B,98,Mechanical Failure
+974,36,7,Female,Rear,Economy,,02-09-2020,City B,122,Mechanical Failure
+975,75,8,Female,Rear,Economy,,02-06-2021,City D,94,Human Error
+976,51,65,Male,Middle,Economy,,16-12-2020,City C,130,Mechanical Failure
+977,15,57,Male,Middle,Economy,,08-04-2020,City A,199,Mechanical Failure
+978,68,67,Male,Rear,Economy,,14-04-2021,City D,131,Derailment
+979,21,59,Male,Front,Economy,,20-05-2020,City B,70,Derailment
+980,13,72,Female,Rear,Economy,,25-03-2020,City A,153,Collision
+981,86,54,Male,Front,Economy,,18-08-2021,City C,185,Human Error
+982,19,67,Female,Rear,Economy,,06-05-2020,City C,87,Mechanical Failure
+983,34,51,Male,Rear,Business,,19-08-2020,City C,184,Mechanical Failure
+984,78,8,Female,Middle,Economy,,23-06-2021,City D,120,Derailment
+985,68,34,Male,Rear,Business,,14-04-2021,City D,131,Derailment
+986,52,35,Female,Front,Economy,,23-12-2020,City D,99,Mechanical Failure
+987,27,78,Male,Rear,Economy,,01-07-2020,City B,64,Mechanical Failure
+988,29,32,Female,Front,Business,,15-07-2020,City D,157,Derailment
+989,28,46,Female,Middle,Economy,,08-07-2020,City A,100,Mechanical Failure
+990,35,16,Female,Front,Economy,,26-08-2020,City B,70,Collision
+991,8,68,Male,Middle,Economy,,19-02-2020,City C,171,Mechanical Failure
+992,16,37,Male,Middle,Economy,,15-04-2020,City D,102,Derailment
+993,36,54,Female,Front,Business,,02-09-2020,City B,122,Mechanical Failure
+994,30,14,Female,Rear,Economy,,22-07-2020,City A,104,Collision
+995,18,55,Female,Front,Business,,29-04-2020,City B,137,Derailment
+996,2,48,Male,Rear,Business,,08-01-2020,City D,142,Derailment
+997,49,7,Female,Middle,Economy,,02-12-2020,City C,57,Collision
+998,77,74,Male,Middle,Economy,,16-06-2021,City B,138,Collision
+999,4,7,Female,Middle,Business,,22-01-2020,City A,156,Derailment
+1000,90,33,Female,Middle,Business,,15-09-2021,City B,90,Derailment
